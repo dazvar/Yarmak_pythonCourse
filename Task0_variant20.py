@@ -1,7 +1,5 @@
 import random
 
-from Tools.scripts.summarize_stats import print_title
-
 rows = 3
 cols = 4
 
